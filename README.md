@@ -3,7 +3,7 @@
 <!--
 **Ambrose23456/ambrose23456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### I'm Ambrose and I'm a Software Developer 
+
 
 Here are some ideas to get you started:
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 📫 Feel free to connect over email 
 - 😄 Pronouns: ...
 -->
-
+### I'm Ambrose. A Software Developer, Technical writer and Teacher 
 ### Language and Tools
 - 🌱 I’m deft with the use of HTML, CSS, Javascript, React, Bootstrap, Node, express js and other
       associated technologies and frameworks to create high quality applications and interfaces.
