@@ -1,4 +1,4 @@
-## Hi, I'm Ambrose 👋
+### Hi, I'm Ambrose 👋
 
 <!--
 **Ambrose23456/ambrose23456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
