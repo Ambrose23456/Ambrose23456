@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 📫 Feel free to connect over email 
 - 😄 Pronouns: ...
 -->
-### I'm Ambrose. A Software Developer, Technical writer and Teacher 
+### I'm Ambrose. A Software Developer, Technical Writer and Teacher 
 ### Language and Tools
 - 🌱 I’m deft with the use of HTML, CSS, Javascript, React, Bootstrap, Node, express js and other
       associated technologies and frameworks to create high quality applications and interfaces.
