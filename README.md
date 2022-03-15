@@ -24,4 +24,5 @@ Here are some ideas to get you started:
       
 - 🔭 I’m currently open to suitable opportunities in front end and/or back end web development.
 ----
-- ⚡ Fun fact: When I am not writing code, I like to write stories and play guitar
+- ⚡ Fun fact: When I am not writing code, I like to write creatively and play guitar(maybe someday I might publish a best seller
+               or be the rockstar I sometimes imagine in my head...haha)
