@@ -19,8 +19,10 @@ Here are some ideas to get you started:
 ### Language and Tools
 - 🌱 I’m deft with the use of HTML, CSS, Javascript, React, Bootstrap, Node, express js and other
       associated technologies and frameworks to create high quality applications and interfaces.
+      
+      
 
--    I also have a working understanding of C and Python (P.S: C is a language that would always be close to my heart)
+-    I also have a working understanding of C and Python (P.S: C is a language that would always be close to my heart :heart:)
       
 - 🔭 I’m currently open to suitable opportunities in front end and/or back end web development.
 ----
