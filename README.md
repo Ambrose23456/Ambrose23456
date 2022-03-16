@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 Feel free to connect over email 
+
 - 😄 Pronouns: ...
 -->
 ### I'm Ambrose. A Software Developer, Technical Writer and Teacher 
@@ -26,5 +26,7 @@ Here are some ideas to get you started:
       
 - 🔭 I’m currently open to suitable opportunities in front end and/or back end web development.
 ----
-- ⚡ Fun fact: When I am not writing code, I like to write creatively and play guitar(maybe someday I might publish a best seller
+- 📫 Feel free to connect over <mailto:onyemakonorambrose@gmail.com> :email:
+---
+- ⚡ Fun fact: When I am not writing code, I like to write creatively and play guitar :guitar:(maybe someday I might publish a best seller
                or be the rockstar I sometimes imagine in my head...haha)
