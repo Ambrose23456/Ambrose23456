@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 ### Language and Tools
 - 🌱 I’m deft with the use of HTML, CSS, Javascript, React, Bootstrap, Node, express js and other
       associated technologies and frameworks to create high quality applications and interfaces.
-      
-      <br>
-  https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png    
+         
 
 -    I also have a working understanding of C and Python (P.S: C is a language that would always be close to my heart :heart:)
       
