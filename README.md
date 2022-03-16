@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+
 
 - 😄 Pronouns: ...
 -->
@@ -20,13 +20,15 @@ Here are some ideas to get you started:
 - 🌱 I’m deft with the use of HTML, CSS, Javascript, React, Bootstrap, Node, express js and other
       associated technologies and frameworks to create high quality applications and interfaces.
       
-      
+      <br>
+  https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png    
 
 -    I also have a working understanding of C and Python (P.S: C is a language that would always be close to my heart :heart:)
       
 - 🔭 I’m currently open to suitable opportunities in front end and/or back end web development.
 ----
 - 📫 Feel free to connect over <mailto:onyemakonorambrose@gmail.com> :email:
+- 💬 Ask me about anything
 ---
 - ⚡ Fun fact: When I am not writing code, I like to write creatively and play guitar :guitar:(maybe someday I might publish a best seller
                or be the rockstar I sometimes imagine in my head...haha)
