@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 -    I also have a working understanding of C and Python (P.S: C is a language that would always be close to my heart :heart:)
       
 - 🔭 I’m currently open to suitable opportunities in front end and/or back end web development.
-----
+--
 - 📫 Feel free to connect over <mailto:onyemakonorambrose@gmail.com> :email:
 - 💬 Ask me about anything
----
+-
 - ⚡ Fun fact: When I am not writing code, I like to write creatively and play guitar :guitar:(maybe someday I might publish a best seller
                or be the rockstar I sometimes imagine in my head...haha)
